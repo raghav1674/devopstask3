@@ -5,7 +5,7 @@
 
 
 
-echoss "hello from php" ;
+echo "hello from php" 
 
 
 
