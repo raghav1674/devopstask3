@@ -1,14 +1,6 @@
 <?php
 
-
-
-
-
-
 echo "hello 
-
-
-
 
 ?>
 
