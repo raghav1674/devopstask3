@@ -1,11 +1,11 @@
-<php
+<?php
 
 
 
 
 
 
-echo "hello from php" ;
+echoss "hello from php" ;
 
 
 
