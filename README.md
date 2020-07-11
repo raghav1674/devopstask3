@@ -30,9 +30,9 @@
 2. Expose your pod so that testing team could perform the testing on the pod
 3. Make the data to remain persistent ( If server collects some data like logs, other user information )
 
-[HTML_DEPLOYMENT_YAML_FILE]()
+[HTML_DEPLOYMENT_YAML_FILE](https://github.com/raghav1674/devopstask3/blob/master/create_html_deploy.yml)
 
-[PHP_DEPLOYMENT_YAML_FILE]()
+[PHP_DEPLOYMENT_YAML_FILE](https://github.com/raghav1674/devopstask3/blob/master/create_php_site_deployment.yml)
 
 
 ## Job3 : Test your app if it is working or not.
