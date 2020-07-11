@@ -8,14 +8,14 @@
 
 
 
-<img src="https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile" >
+<img src="https://github.com/raghav1674/devopstask3/blob/master/DEVOPS-TASK-THREE/jenkins-runn.PNG" >
 
 
 ## 2. When we launch this image, it should automatically starts Jenkins service in the container.
 
 
 
-<img src="https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile" >
+<img src="https://github.com/raghav1674/devopstask3/blob/master/DEVOPS-TASK-THREE/jenkins-runn.PNG" >
 
 
 
@@ -28,7 +28,7 @@
  
  
  
-<img src="https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile" >
+<img src="https://github.com/raghav1674/devopstask3/blob/master/DEVOPS-TASK-THREE/jenkins-runn.PNG" >
 
  
  
@@ -47,6 +47,6 @@
 ## Job4 : if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer
 
 
-<img src="https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile" >
+<img src="https://github.com/raghav1674/devopstask3/blob/master/DEVOPS-TASK-THREE/jenkins-runn.PNG" >
 
 
