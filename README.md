@@ -2,7 +2,7 @@
 
 ## TASK DESCRIPTION:
 
-1. Create container image that’s has Jenkins installed using dockerfile Or You can use the Jenkins Server on RHEL 8/7
+## 1. Create container image that’s has Jenkins installed using dockerfile Or You can use the Jenkins Server on RHEL 8/7
 
 
 
@@ -35,6 +35,8 @@
 [PHP_DEPLOYMENT_YAML_FILE]()
 
 
-##Job3 : Test your app if it is working or not.
-##Job4 : if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer
-I am not explaining the basics as I already have explained in my previous article.
+## Job3 : Test your app if it is working or not.
+## Job4 : if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer
+
+
+
