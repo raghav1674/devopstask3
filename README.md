@@ -8,7 +8,7 @@
 
 
 
-<img src="https://github.com/raghav1674/devopstask3/blob/master/DEVOPS-TASK-THREE/jenkins-runn.PNG" >
+
 
 
 ## 2. When we launch this image, it should automatically starts Jenkins service in the container.
