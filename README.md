@@ -48,6 +48,6 @@
 ## Job4 : if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer
 
 
-<img src="https://github.com/raghav1674/devopstask3/blob/master/DEVOPS-TASK-THREE/jenkins-runn.PNG" >
+<img src="https://github.com/raghav1674/devopstask3/blob/master/DEVOPS-TASK-THREE/mail.PNG" >
 
 
