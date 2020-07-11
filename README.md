@@ -4,9 +4,11 @@
 
 ## 1. Create container image that’s has Jenkins installed using dockerfile Or You can use the Jenkins Server on RHEL 8/7
 
+[Dockerfile](https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile)
 
 
 
+<img src="https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile" >
 
 
 ## 2. When we launch this image, it should automatically starts Jenkins service in the container.
