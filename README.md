@@ -15,6 +15,10 @@
 
 
 
+<img src="https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile" >
+
+
+
 
 
 
@@ -24,6 +28,8 @@
  
  
  
+<img src="https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile" >
+
  
  
  
@@ -40,5 +46,7 @@
 ## Job3 : Test your app if it is working or not.
 ## Job4 : if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer
 
+
+<img src="https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile" >
 
 
